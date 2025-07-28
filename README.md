@@ -7,6 +7,18 @@
 * [Coin Flip Sim] --------- file:///Users/paulpaul/Documents/random_processes/ergodicity_v03.html
 * [Coin Flip Sim] --------- file:///Users/paulpaul/Documents/random_processes/ergodicity_v02.html
 
+### Opinions
+* [W.Buffet: Most People Have No Idea What's About To Happen" - Warren Buffett's Las...](https://youtu.be/0D8z4n-FtPA)
+* [Watch "Basics of Investing" on YouTube](https://youtu.be/rutdqM4QzQw?si=5SIqcPv-yeHXpH00)
+* [Watch "MAKING MONEY - My First Bonus, Investment Advice & A Warning" on YouTube](https://youtu.be/8BzLx-6WNP8?si=qZzl0bw4jaDOjY7a)
+* [Watch "The Trade That Made Me Millions - Interest Rates" on YouTube](https://youtu.be/0DtrbcnurMI?si=iIeqVApCIlkNtv8A)
+* [Watch "What is Wealth? - @peterkomolafe podcast" on YouTube](https://youtu.be/-gT-iPxfkM0?si=-620sWhozWiamNeQ)
+* [Watch "MAKING MONEY - My First Bonus, Investment Advice & A Warning" on YouTube](https://youtu.be/8BzLx-6WNP8?si=bhCQR_4pyT3Qr2hb)
+* [Watch "Why Your Economists Suck" on YouTube](https://youtu.be/NqtHN2RKdqI?si=bWjeSnzzFxHXxsTu)
+* [Watch "Flows of Wealth and How People Get Rich" on YouTube](https://youtu.be/KdOU-KfIuQU?si=NsQ1Rw-a5eg-qc2B)
+* [Watch "Where is the Money? - What I Learnt on the BBC" on YouTube](https://youtu.be/olhY3NI7jbE?si=PhPJVhHkpjVLEuRh)
+* [Ray Dalio: What's Coming Is Much WORSE Than A Recession...](https://youtu.be/qcXG96uwaFw)
+* []()
 
       …or create a new repository on the command line
       echo "# fred_money" >> README.md
