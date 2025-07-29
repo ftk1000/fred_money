@@ -9,7 +9,7 @@
 
 
 
-# Very Interesting Charts !!! 2026.07.29
+# Very Interesting Charts !!! 2025.07.29
 * Keep an eye on [10 Year Treasury Rate](https://www.multpl.com/10-year-treasury-rate)
 * [S&P 500 Historical Prices](https://github.com/ftk1000/fred_money/edit/main/README.md) compare with  [S&P 500 Earnings](https://www.multpl.com/s-p-500-earnings) and  [S&P 500 Dividend Yield](https://www.multpl.com/s-p-500-dividend-yield)
 * [Case Shiller Home Price Index](https://www.multpl.com/case-shiller-home-price-index-inflation-adjusted)
