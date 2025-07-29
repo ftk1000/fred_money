@@ -7,13 +7,15 @@
 * [Coin Flip Sim] --------- file:///Users/paulpaul/Documents/random_processes/ergodicity_v03.html
 * [Coin Flip Sim] --------- file:///Users/paulpaul/Documents/random_processes/ergodicity_v02.html
 
-# Very Interesting Charts !!! 
+
+
+# Very Interesting Charts !!! 2026.07.29
 * Keep an eye on [10 Year Treasury Rate](https://www.multpl.com/10-year-treasury-rate)
 * [S&P 500 Historical Prices](https://github.com/ftk1000/fred_money/edit/main/README.md) compare with  [S&P 500 Earnings](https://www.multpl.com/s-p-500-earnings) and  [S&P 500 Dividend Yield](https://www.multpl.com/s-p-500-dividend-yield)
 * [Case Shiller Home Price Index](https://www.multpl.com/case-shiller-home-price-index-inflation-adjusted)
 * [S&P 500 PE Ratio](https://www.multpl.com/s-p-500-pe-ratio) compare with [Shiller PE Ratio](https://www.multpl.com/shiller-pe)
 * []()
-* []()
+* See how GOLD holds value over time [US Home Prices vs GOLD vs USDollar](https://pricedingold.com/us-home-prices/). Maybe it is time to buy a few bitcoins?
 * []()
 * []()
 
