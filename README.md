@@ -19,6 +19,12 @@
 * []()
 * []()
 
+# Estate Planning / Living Trust
+
+* [Estate Planning 101 | The Proper Way to Structure Your Estate Plan](https://youtu.be/nkFQmsdCW-I?si=FuCfQ-maypLsZFV0)
+* [How to Make a Living Trust Without a Lawyer in 2025](https://youtu.be/P3xZzOiDfKA?si=6j3c576L1tV6Ga4k)
+
+
 ### Opinions
 * [W.Buffet: Most People Have No Idea What's About To Happen" - Warren Buffett's Las...](https://youtu.be/0D8z4n-FtPA)
 * [Watch "Basics of Investing" on YouTube](https://youtu.be/rutdqM4QzQw?si=5SIqcPv-yeHXpH00)
